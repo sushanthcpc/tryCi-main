@@ -1,0 +1,11 @@
+/.dockerignore
+/.vscode
+/app.js
+/config
+/controllers
+/Dockerfile
+/package-lock.json
+/package.json
+/routes
+/server.js
+/utils
